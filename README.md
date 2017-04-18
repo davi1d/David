@@ -2,7 +2,7 @@
 
 1. Warum mit Bitcoin Wetten?
 2. Bitcoins Kaufen
-3. Bitcoins übertragen
+3. Bitcoins Verschicken
 4. Konto bei Bitcoin Buchmachern erstellen
 5. Weitere Quellen
 6. Proessionelle eSport Vorhrsagen
@@ -50,9 +50,9 @@ Der wichtigste und seriöseste deutsche Marktplatze für den Kauf und Verkauf vo
 Des weiteren gibt es auch englisch Sprachige Marktplätze wie **Kraken oder Bitstamp** was jedoch für Kunden einer
 deutschen Bank einige Hindernisse dastellt, wie Auszahlungsobergrenzen, erhöhte Gebühren...
 
-<h2>3. Bitcoins übertragen</h2>
+<h2>3. Bitcoins Verschicken</h2>
 
-Nach dem Kauf der Bitcoins können sie diese von ihrem Bitcoin Marktplatz Konto übertragen,
+Nach dem Kauf der Bitcoins können sie diese von ihrem Bitcoin Marktplatz Konto auf andere Bitcoin Adressen verschicken,
 entweder direkt an den Buchmacher/Sportwetten Anbieter, oder sie lagern sie auf einem **Wallet/Geldbörse** wie:
 
  - [Electrum](https://electrum.org/#home) (Opensource, einfach und kostenlos)
