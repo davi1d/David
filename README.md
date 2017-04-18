@@ -5,7 +5,7 @@
 3. Bitcoins Verschicken
 4. Konto bei Bitcoin Buchmachern erstellen
 5. Weitere Quellen
-6. Proessionelle eSport Vorhrsagen
+6. Proessionelle eSport Wettvorhersagen
 7. Support
 
 
@@ -80,7 +80,7 @@ https://fanobet.com/help
 
 https://nitrogensports.eu/blog/how-to-bet-on-sports/
 
-<h2>6. Proessionelle eSport Vorhersagen/ Predicitions </h2>
+<h2>6. Proessionelle eSport Wettvorhersagen </h2>
 
 Ausführliche Informationen und öffentliche Zugängliches Material zu einem gewerblich tätigen Anbieter per Mail.
 
