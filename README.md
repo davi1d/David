@@ -39,7 +39,7 @@ sollen sie bei Bitcoin Wettseiten selber in der Steuererklärung angeben.
 <h2>2. Bitcoins Kaufen</h2>
 
 Es gibt mehrere Möglichkeiten, Bitcoins zu kaufen.
-Am einfachsten geht dies auf einen online-Marktplatz, bei dem die Nutzer Angebote erstellen und annehmen können.
+Am preiswertesten geht dies auf einen online-Marktplatz, bei dem die Nutzer Angebote erstellen und annehmen können.
 Der Betreiber erhebt dafür meistens eine geringe Gebühr.
 Nach dem Kauf können die Münzen dann an deine Bitcoin-Adresse überwiesen werden, und landen in deinem Wallet.
 
@@ -47,8 +47,12 @@ Der wichtigste und seriöseste deutsche Marktplatze für den Kauf und Verkauf vo
 
  - [Bitcoin.de](https://www.bitcoin.de/de/r/8gdac8)
 
-Des weiteren gibt es auch englisch Sprachige Marktplätze wie **Kraken oder Bitstamp** was jedoch für Kunden einer
-deutschen Bank einige Hindernisse dastellt, wie Auszahlungsobergrenzen, erhöhte Gebühren...
+Die noch Alternativee wäre ein Bitcoin Händler wie zum Beispiel:
+
+[Bitpanda](https://www.bitpanda.com/?ref=2186648760183413481&sub=bitcoin)
+
+Es ist tatsächlich schneller und unkomplizierter, dafür ist die Gebühr etwas höher.
+Außerdem können sie bei den Bitcoin Händlern mehrere verschiedene Zahlungsarten neben der Überweisung wählen.
 
 <h2>3. Bitcoins Verschicken</h2>
 
