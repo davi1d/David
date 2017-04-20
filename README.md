@@ -69,7 +69,7 @@ Diese **Buchmacher/Sportwetten Anbieter** haben gute Quoten, sind seriös und in
  - [Fanobet](https://fanobet.com/r/cashback10) (Referral Link 1% Cashback, deutscher Pass notwendig)
  - [Directbet](https://www.directbet.eu?AffiliateID=1QGSjt8oRMFJdwv9bTRbN6c2wAigYE4CcC)
  - [Sportsbet.io](https://sportsbet.io?ref=io)
-Edit	
+
 
 <h2>5. Weitere Quellen auf englisch</h2>
 
