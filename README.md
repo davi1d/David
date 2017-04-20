@@ -94,6 +94,8 @@ davi1d@easy.com
 
 <h2>FAQ</h2>
 
+Was ist die rechtliche Grundlage der Wettsteuern?
+
 Ich bin leider kein Jurist der sich in diesem Themengebiet spezialisiert hat und aus dem "Rennwetten und Lotteriegesetz" https://www.gesetze-im-internet.de/rennwlottg/BJNR003930922.html ist schwer herauszulesen, wie dieser Fall gehandhabt wird und ob z.B.§ 23 hier angewendet wird:
 
 § 23  Wegen Hinterziehung wird auch bestraft, wer im Inland den Vertrieb unversteuerter (§ 21) ausländischer Lose oder ausländischer Ausweise über Ausspielungen besorgt.
