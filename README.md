@@ -65,12 +65,13 @@ an ihre von den Buchmacher/Sportwette gegebenen Bitcoin Adresse.
 Die Erstellung eines Kontos ist meist sehr einfach mit E-Mail und Passwort, leider sind die besten Seiten nur auf English
 suchen sie nach dem Begriff "Deposit"(Einzahlung) dort sehen sie dan ihre Bitcoin Adresse ihres Kontos.
 
-Diese **Buchmacher/Sportwetten Anbieter** haben sehr gute Quote, sind seriös und in Deutschland zulässig:
+Diese **Buchmacher/Sportwetten Anbieter** haben gute Quoten, sind seriös und in Deutschland zulässig:
 
  - [Nitrogenesports](https://nitrogensports.eu/r/1782570)
  - [Fanobet](https://fanobet.com/r/cashback10) (Referral Link 1% Cashback, deutscher Pass notwendig)
  - [Directbet](https://www.directbet.eu?AffiliateID=1QGSjt8oRMFJdwv9bTRbN6c2wAigYE4CcC)
-
+ - [Sportsbet.io](https://sportsbet.io?ref=io)
+Edit	
 
 <h2>5. Weitere Quellen auf englisch</h2>
 
