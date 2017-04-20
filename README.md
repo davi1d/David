@@ -25,14 +25,9 @@ Wettanbieter, die Bitcoin als Währung akzeptieren verlangen von ihren Kunden le
 Doch selbst das ist bei vielen Bookies nicht zwingend erforderlich. Hinzu kommt, dass es recht leicht ist,
 sich eine E-Mail-Adresse nur für diesen Zweck anzulegen.
 
-Anonyme Kontoeröffnungen sind immer dann möglich,wenn die Zahlungen ausschließlich mit Bitcoins durchgeführt werden. 
-Der eingezahlte Betrag ist sofort verfügbar,sodass sich direkt die ersten Wetten platzieren lassen.
-Da die Konten anonym geführt werden können diese nicht vom Buchmacher gesperrt werden.
-Nach Auswertung der Wette geht der Gewinn sofort an den Spieler.
-Selbst bei einer recht **großen Gewinnausschüttung** kommt es weder zu einer Limitüberschreitung noch zu einer Kontosperrung.
-
-Die **Wettsteuern** die bei anderen Buchmachern direkt von ihrem Gewinn abgezogen werden,
-sollen sie bei Bitcoin Wettseiten selber in der Steuererklärung angeben.
+Anonyme Kontoeröffnungen sind immer dann möglich, wenn der Zahlungsverkehr ausschließlich über Bitcoin verläuft.
+Der eingezahlte Betrag ist sofort verfügbar, sodass sich direkt die ersten Wetten platzieren lassen.
+Andere Sportwettanbieter ziehen die **Wettsteuer** direkt vom Gewinn ab, die hier gennanten Wettanbieter machen dies nicht, mehr dazu in den FAQ.
 
 **Diese Eigenschaften führen zwangsläufig dazu, dass es Bitcoin Wettanbietern möglich ist bessere Wettquoten anzubieten.**
 
@@ -101,6 +96,7 @@ davi1d@easy.com
 Was ist die rechtliche Grundlage der Wettsteuern?
 
 ---
+Wahrscheinlich macht es dann am meisten Sinn sich beim Finanzamt oder bei einem Steuerberater zu informieren.
 
 Ich bin leider kein Jurist der sich in diesem Themengebiet spezialisiert hat und aus dem "Rennwetten und Lotteriegesetz" https://www.gesetze-im-internet.de/rennwlottg/BJNR003930922.html ist schwer herauszulesen, wie dieser Fall gehandhabt wird und ob z.B.§ 23 hier angewendet wird:
 
@@ -113,4 +109,3 @@ http://wett-bonus.net/wettsteuer
 Die Sache mit der Wettsteuer:
 http://www.alphaslot.com/gibt-es-bitcoin-sportwetten
 
-Wahrscheinlich macht es dann am meisten Sinn sich beim Finanzamt oder bei einem Steuerberater zu informieren.
