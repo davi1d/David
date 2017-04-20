@@ -38,21 +38,20 @@ sollen sie bei Bitcoin Wettseiten selber in der Steuererklärung angeben.
 
 <h2>2. Bitcoins Kaufen</h2>
 
-Es gibt mehrere Möglichkeiten, Bitcoins zu kaufen.
-Am preiswertesten geht dies auf einen online-Marktplatz, bei dem die Nutzer Angebote erstellen und annehmen können.
-Der Betreiber erhebt dafür meistens eine geringe Gebühr.
+Es gibt mehrere Möglichkeiten, Bitcoins zu kaufen. Am **preiswertesten** geht dies auf einen **Online-Marktplatz**,
+bei dem die Nutzer Angebote erstellen und annehmen können. Der Betreiber erhebt dafür meistens eine geringe Gebühr.
 Nach dem Kauf können die Münzen dann an deine Bitcoin-Adresse überwiesen werden, und landen in deinem Wallet.
 
 Der wichtigste und seriöseste deutsche Marktplatze für den Kauf und Verkauf von Bitcoins ist:
 
  - [Bitcoin.de](https://www.bitcoin.de/de/r/8gdac8)
 
-Die noch Alternativee wäre ein Bitcoin Händler wie zum Beispiel:
+Die Alternative ist ein **Bitcoin Händler** wie zum Beispiel:
 
-[Bitpanda](https://www.bitpanda.com/?ref=2186648760183413481&sub=bitcoin)
+ - [Bitpanda](https://www.bitpanda.com/?ref=2186648760183413481&sub=bitcoin)
 
-Es ist tatsächlich schneller und unkomplizierter, dafür ist die Gebühr etwas höher.
-Außerdem können sie bei den Bitcoin Händlern mehrere verschiedene Zahlungsarten neben der Überweisung wählen.
+Es ist tatsächlich **schneller und einfacher**, dafür ist die Gebühr etwas höher.
+Außerdem können sie bei den Bitcoin Händlern mehrere **verschiedene Zahlungsarten** neben der Überweisung wählen.
 
 <h2>3. Bitcoins Verschicken</h2>
 
@@ -79,11 +78,11 @@ Edit
 
 <h2>5. Weitere Quellen auf englisch</h2>
 
-https://www.pinnacle.com/en/help/knowledge-base/placing-your-first-bet-at-pinnacle-sports
+ - https://www.pinnacle.com/en/help/knowledge-base/placing-your-first-bet-at-pinnacle-sports
 
-https://fanobet.com/help
+ - https://fanobet.com/help
 
-https://nitrogensports.eu/blog/how-to-bet-on-sports/
+ - https://nitrogensports.eu/blog/how-to-bet-on-sports/
 
 <h2>6. Proessionelle eSport Wettvorhersagen </h2>
 
@@ -100,6 +99,8 @@ davi1d@easy.com
 <h2>FAQ</h2>
 
 Was ist die rechtliche Grundlage der Wettsteuern?
+
+---
 
 Ich bin leider kein Jurist der sich in diesem Themengebiet spezialisiert hat und aus dem "Rennwetten und Lotteriegesetz" https://www.gesetze-im-internet.de/rennwlottg/BJNR003930922.html ist schwer herauszulesen, wie dieser Fall gehandhabt wird und ob z.B.§ 23 hier angewendet wird:
 
